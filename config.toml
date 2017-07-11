@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "Eproject"
+baseURL = "https:\/\/eproject.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "something.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
